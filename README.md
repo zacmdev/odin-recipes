@@ -1,1 +1,1 @@
-# odin-recipes
+Making a recipe page that links to various recipes to reinforce what I've learned through the Odin Project HTML course
